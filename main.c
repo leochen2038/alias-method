@@ -81,7 +81,7 @@ int main()
     int size = 4;
     int *prob = malloc(sizeof(int)*size);
     int *aliases;
-    prob[0] = 10;
+    prob[0] = 500;
     prob[1] = 3000;
     prob[2] = 5000;
     prob[3] = 1500;
